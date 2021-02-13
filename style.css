@@ -20,7 +20,7 @@ a {
 section {
     width: 100%;
     height: 95vh;
-    background-image: url("./nasa-Q1p7bh3SHj8-unsplash.jpg");
+    background-image: url("./Assets/nasa-Q1p7bh3SHj8-unsplash.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -105,12 +105,12 @@ nav ul li a {
     margin: 0px 10px;
 }
 
-.hire-btn {
+.projects-btn {
     border: 2px solid #373636;
     color: #373636;
 }
 
-.down-cv {
+.down-rm {
     background-color: #0b0b0b;
     border: none;
     color: #ffffff;
@@ -183,13 +183,13 @@ button:active {
     background-color: #262525;
 }
 
-.services {
+.projects {
     height: 600px;
     background-color: #ffffff;
     padding: 2% 10% 0px 10%;
 }
 
-.service-text p:nth-child(1) {
+.projects-text p:nth-child(1) {
     font-family: calibri;
     font-weight: bold;
     color: #3e3d3d;
@@ -197,7 +197,7 @@ button:active {
     line-height: 0px;
 }
 
-.service-text p:nth-child(2) {
+.projects-text p:nth-child(2) {
     font-family: calibri;
     font-weight: bold;
     color: #3e3e3d;
@@ -205,12 +205,12 @@ button:active {
     line-height: 5px;
 }
 
-.service-text p:nth-child(3) {
+.projects-text p:nth-child(3) {
     font-family: calibri;
     color: #7e7d7d;
 }
 
-.service-text {
+.projects-text {
     width: 500px;
     margin: 50px 0px;
 }
@@ -234,35 +234,36 @@ button:active {
     justify-content: space-between;
 }
 
+/* background pictures for the boxes.*/
 .box-1 {
-    background-image: url(./joshua-reddekopp-GkFQEOubrCo-unsplash.jpg);
+    background-image: url(./Assets/joshua-reddekopp-GkFQEOubrCo-unsplash.jpg);
 }
 
 .box-2 {
-    background-image: url(./maxim-hopman-fiXLQXAhCfk-unsplash.jpg);
+    background-image: url(./Assets/maxim-hopman-fiXLQXAhCfk-unsplash.jpg);
 }
 
 .box-3 {
-    background-image: url(./alexandre-debieve-FO7JIlwjOtU-unsplash.jpg);
+    background-image: url(./Assets/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg);
 }
 
-
+/* This is to allow us to hover over the picture*/
 .box-1:hover {
-    background-image: url(./joshua-reddekopp-GkFQEOubrCo-unsplash.jpg);
+    background-image: url(./Assets/joshua-reddekopp-GkFQEOubrCo-unsplash.jpg);
     background-color: #000000;
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 2);
     transition: all ease 0.5s;
 }
 
 .box-2:hover {
-    background-image: url(./maxim-hopman-fiXLQXAhCfk-unsplash.jpg);
+    background-image: url(./Assets/maxim-hopman-fiXLQXAhCfk-unsplash.jpg);
     background-color: #000000;
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 2);
     transition: all ease 0.5s;
 }
 
 .box-3:hover {
-    background-image: url(./alexandre-debieve-FO7JIlwjOtU-unsplash.jpg);
+    background-image: url(./Assets/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg);
     background-color: #000000;
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 2);
     transition: all ease 0.5s;
@@ -301,6 +302,7 @@ button:active {
     color: #8f8f8f;
 }
 
+/* Added Read me buttons on the images for the projects. */
 .box-1 button,
 .box-2 button,
 .box-3 button {
@@ -315,7 +317,7 @@ button:active {
 .contact-me {
     width: 100%;
     height: 280px;
-    background-image: url(./maxim-hopman-fiXLQXAhCfk-unsplash.jpg);
+    background-image: url(./Assets/maxim-hopman-fiXLQXAhCfk-unsplash.jpg);
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
@@ -390,7 +392,7 @@ footer p:nth-child(2) {
     position: absolute;
     left: 50%;
     bottom: 10px;
-    transform.translateX(-50%);
+    transform: translateX(-50%);
 }
 
 .soccial-icons i {
@@ -429,10 +431,10 @@ footer p:nth-child(2) {
     line-height: 0px;
     background-color: #ffffff;
     border: 1px solid #cbcbcb;
-    box-shadow: 2px 2px 12px rgb(0, 0, 0,
-    }
+    box-shadow: 2px 2px 12px rgb(0, 0, 0, );
+}
 
-    .a-social-b i {
-        color: #2b2b2b;
-        font-size:20px;
-    }
+.a-social-b i {
+    color: #2b2b2b;
+    font-size: 20px;
+}
