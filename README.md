@@ -1,5 +1,5 @@
 # my-personal-website
-![Personal website screenshot](./assets/Screen_shot_For_Read_Me_File)
+![Personal website screenshot](./Assets/Screen_shot_For_Read_Me_File)
 
 
 
