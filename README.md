@@ -1,29 +1,46 @@
-# my-personal-website
-![Personal website screenshot](./Assets/Screen_shot_For_Read_Me_File)
+# Updated-Portfolio.github.io
+# Add new features into the portfolio website 
+[Launch Updated Portfolio Page]
+*  [My Site](https://moesaidi76.github.io/Updated-Portfolio-Page/.) .
+
+## Requirements
+
+* Updated portfolio featuring project 1 and two exemplary homework assignments. 
+
+* Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments. 
+
+* Updated resume
+
+* Updated LinkedIn profile
 
 
 
 
+## Instructions
+
+1. [Updated Portfolio](#updated-portfolio)
+2. [GitHub Profile](#updated-github-profile)
+3. [Updated Resume](#updated-resume)
+4. [Updated LinkedIn](#updated-linkedin)
+
+### Updated GitHub Profile 
+
+* Adding the following to our Portfolio: 
+
+    * Profile picture
+
+    * Bio
+
+    * Email
+
+    * Link to your portfolio
+
+  * Navigate to [GitHub](https://github.com/) and go to your profile.
 
 
 
+### Updated LinkedIn Profile 
 
-
-
-
-
-On this activity we are instucted to create our own personal website from scratch. 
-
-The goal was to create an HTML file and CSS file to complete the task. In addition, to making sure that the file is corrected and works when deployed without any error.
-
-Also, the quality of the code matters. making sure that we add comments when needed and having an understandable organized code, easily readable and accesable to other developers.
-
-I started my HTML file and I wantd to be a little creative. I wanted to include simple but readable site:
-1-  where I have 2 pictures of myself.
-2- Less writing more creative and concise.
-3- fill in on the requirements from the READ.ME file from the instrucotrs. 
-
-For CSS file, I had to do extensive reaserch becuase I wanted to align pictures and making sure that every class div is located where I wanted to be. 
-
+Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
 
 
